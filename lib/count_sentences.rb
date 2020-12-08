@@ -7,11 +7,11 @@ class String
   end
 
   def question?
-
+    puts "hello world"
   end
 
   def exclamation?
-
+    puts "hello world"
   end
 
   def count_sentences
